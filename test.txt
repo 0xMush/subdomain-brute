@@ -1,0 +1,15 @@
+www
+mail
+ftp
+admin
+dev
+test
+api
+blog
+shop
+vpn
+ns1
+ns2
+webmail
+proxy
+remote
